@@ -1,0 +1,10 @@
+bin\Release\Fax.DBUtility.dll
+bin\Release\Fax.DBUtility.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Fax.DBUtility.dll
+obj\Release\Fax.DBUtility.pdb
+bin\Debug\Fax.DBUtility.dll
+bin\Debug\Fax.DBUtility.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Fax.DBUtility.dll
+obj\Debug\Fax.DBUtility.pdb

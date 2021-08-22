@@ -1,0 +1,7 @@
+D:\reylen\YtEMail\EmailDAL\bin\Release\EmailDAL.dll
+D:\reylen\YtEMail\EmailDAL\bin\Release\EmailDAL.pdb
+D:\reylen\YtEMail\EmailDAL\bin\Release\Fax.DBUtility.dll
+D:\reylen\YtEMail\EmailDAL\bin\Release\Fax.DBUtility.pdb
+D:\reylen\YtEMail\EmailDAL\obj\Release\EmailDAL.csprojResolveAssemblyReference.cache
+D:\reylen\YtEMail\EmailDAL\obj\Release\EmailDAL.dll
+D:\reylen\YtEMail\EmailDAL\obj\Release\EmailDAL.pdb

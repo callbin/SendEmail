@@ -1,0 +1,14 @@
+D:\reylen\YtEMail\EmailDAL\bin\Debug\EmailDAL.dll
+D:\reylen\YtEMail\EmailDAL\bin\Debug\EmailDAL.pdb
+D:\reylen\YtEMail\EmailDAL\bin\Debug\Fax.DBUtility.dll
+D:\reylen\YtEMail\EmailDAL\bin\Debug\Fax.DBUtility.pdb
+D:\reylen\YtEMail\EmailDAL\obj\Debug\EmailDAL.csprojResolveAssemblyReference.cache
+D:\reylen\YtEMail\EmailDAL\obj\Debug\EmailDAL.dll
+D:\reylen\YtEMail\EmailDAL\obj\Debug\EmailDAL.pdb
+D:\SendJobEmail\EmailDAL\bin\Debug\EmailDAL.dll
+D:\SendJobEmail\EmailDAL\bin\Debug\EmailDAL.pdb
+D:\SendJobEmail\EmailDAL\bin\Debug\Fax.DBUtility.dll
+D:\SendJobEmail\EmailDAL\bin\Debug\Fax.DBUtility.pdb
+D:\SendJobEmail\EmailDAL\obj\Debug\EmailDAL.csprojResolveAssemblyReference.cache
+D:\SendJobEmail\EmailDAL\obj\Debug\EmailDAL.dll
+D:\SendJobEmail\EmailDAL\obj\Debug\EmailDAL.pdb

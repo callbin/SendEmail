@@ -1,0 +1,14 @@
+bin\Release\EmailDAL.dll
+bin\Release\EmailDAL.pdb
+bin\Release\Fax.DBUtility.dll
+bin\Release\Fax.DBUtility.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\EmailDAL.dll
+obj\Release\EmailDAL.pdb
+bin\Debug\EmailDAL.dll
+bin\Debug\EmailDAL.pdb
+bin\Debug\Fax.DBUtility.dll
+bin\Debug\Fax.DBUtility.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EmailDAL.dll
+obj\Debug\EmailDAL.pdb

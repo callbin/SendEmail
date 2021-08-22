@@ -1,0 +1,11 @@
+D:\SendJobEmail\Test\bin\Debug\Test.exe
+D:\SendJobEmail\Test\bin\Debug\Test.pdb
+D:\SendJobEmail\Test\bin\Debug\Interop.jmail.dll
+D:\SendJobEmail\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\SendJobEmail\Test\obj\Debug\Interop.jmail.dll
+D:\SendJobEmail\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+D:\SendJobEmail\Test\obj\Debug\Test.frmMail.resources
+D:\SendJobEmail\Test\obj\Debug\Test.Properties.Resources.resources
+D:\SendJobEmail\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\SendJobEmail\Test\obj\Debug\Test.exe
+D:\SendJobEmail\Test\obj\Debug\Test.pdb

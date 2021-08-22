@@ -1,0 +1,16 @@
+bin\Release\Common.dll
+bin\Release\Common.pdb
+bin\Release\Interop.jmail.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.jmail.dll
+obj\Release\Common.csproj.ResolveComReference.cache
+obj\Release\Common.dll
+obj\Release\Common.pdb
+bin\Debug\Common.dll
+bin\Debug\Common.pdb
+bin\Debug\Interop.jmail.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.jmail.dll
+obj\Debug\Common.csproj.ResolveComReference.cache
+obj\Debug\Common.dll
+obj\Debug\Common.pdb

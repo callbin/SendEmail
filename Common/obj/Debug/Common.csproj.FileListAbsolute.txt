@@ -1,0 +1,17 @@
+D:\reylen\YtEMail\Common\bin\Debug\Common.dll
+D:\reylen\YtEMail\Common\bin\Debug\Common.pdb
+D:\reylen\YtEMail\Common\bin\Debug\log4net.dll
+D:\reylen\YtEMail\Common\bin\Debug\Interop.jmail.dll
+D:\reylen\YtEMail\Common\obj\Debug\Interop.jmail.dll
+D:\reylen\YtEMail\Common\obj\Debug\Common.csproj.ResolveComReference.cache
+D:\reylen\YtEMail\Common\obj\Debug\Common.dll
+D:\reylen\YtEMail\Common\obj\Debug\Common.pdb
+D:\SendJobEmail\Common\bin\Debug\Common.dll
+D:\SendJobEmail\Common\bin\Debug\Common.pdb
+D:\SendJobEmail\Common\bin\Debug\log4net.dll
+D:\SendJobEmail\Common\bin\Debug\Interop.jmail.dll
+D:\SendJobEmail\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\SendJobEmail\Common\obj\Debug\Interop.jmail.dll
+D:\SendJobEmail\Common\obj\Debug\Common.csproj.ResolveComReference.cache
+D:\SendJobEmail\Common\obj\Debug\Common.dll
+D:\SendJobEmail\Common\obj\Debug\Common.pdb

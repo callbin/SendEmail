@@ -1,0 +1,8 @@
+D:\reylen\YtEMail\Common\bin\Release\Common.dll
+D:\reylen\YtEMail\Common\bin\Release\Common.pdb
+D:\reylen\YtEMail\Common\bin\Release\log4net.dll
+D:\reylen\YtEMail\Common\bin\Release\Interop.jmail.dll
+D:\reylen\YtEMail\Common\obj\Release\Interop.jmail.dll
+D:\reylen\YtEMail\Common\obj\Release\Common.csproj.ResolveComReference.cache
+D:\reylen\YtEMail\Common\obj\Release\Common.dll
+D:\reylen\YtEMail\Common\obj\Release\Common.pdb
