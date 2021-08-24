@@ -24,6 +24,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JMail4Setup", "JMail4Setup", "{C4529195-B382-45BC-8F0A-297E2C29358B}"
+	ProjectSection(SolutionItems) = preProject
+		Jmail4.4 Pro\JMail44_pro.exe = Jmail4.4 Pro\JMail44_pro.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET

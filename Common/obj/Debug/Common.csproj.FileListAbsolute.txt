@@ -15,3 +15,8 @@ D:\SendJobEmail\Common\obj\Debug\Interop.jmail.dll
 D:\SendJobEmail\Common\obj\Debug\Common.csproj.ResolveComReference.cache
 D:\SendJobEmail\Common\obj\Debug\Common.dll
 D:\SendJobEmail\Common\obj\Debug\Common.pdb
+D:\Project\test\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Project\test\Common\obj\Debug\Common.csproj.ResolveComReference.cache
+D:\Project\test\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Project\test\Common\obj\Debug\Common.dll
+D:\Project\test\Common\obj\Debug\Common.pdb
