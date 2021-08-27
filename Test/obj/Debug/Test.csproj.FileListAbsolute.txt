@@ -9,3 +9,15 @@ D:\SendJobEmail\Test\obj\Debug\Test.Properties.Resources.resources
 D:\SendJobEmail\Test\obj\Debug\Test.csproj.GenerateResource.Cache
 D:\SendJobEmail\Test\obj\Debug\Test.exe
 D:\SendJobEmail\Test\obj\Debug\Test.pdb
+D:\Project\SendMail\Test\bin\Debug\Test.exe
+D:\Project\SendMail\Test\bin\Debug\Test.pdb
+D:\Project\SendMail\Test\bin\Debug\Interop.jmail.dll
+D:\Project\SendMail\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Project\SendMail\Test\obj\Debug\Interop.jmail.dll
+D:\Project\SendMail\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+D:\Project\SendMail\Test\obj\Debug\Test.frmMail.resources
+D:\Project\SendMail\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Project\SendMail\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Project\SendMail\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Project\SendMail\Test\obj\Debug\Test.exe
+D:\Project\SendMail\Test\obj\Debug\Test.pdb

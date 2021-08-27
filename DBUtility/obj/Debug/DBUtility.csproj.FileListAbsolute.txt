@@ -7,3 +7,8 @@ D:\SendJobEmail\DBUtility\bin\Debug\Fax.DBUtility.pdb
 D:\SendJobEmail\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
 D:\SendJobEmail\DBUtility\obj\Debug\Fax.DBUtility.dll
 D:\SendJobEmail\DBUtility\obj\Debug\Fax.DBUtility.pdb
+D:\Project\SendMail\DBUtility\bin\Debug\Fax.DBUtility.dll
+D:\Project\SendMail\DBUtility\bin\Debug\Fax.DBUtility.pdb
+D:\Project\SendMail\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+D:\Project\SendMail\DBUtility\obj\Debug\Fax.DBUtility.dll
+D:\Project\SendMail\DBUtility\obj\Debug\Fax.DBUtility.pdb

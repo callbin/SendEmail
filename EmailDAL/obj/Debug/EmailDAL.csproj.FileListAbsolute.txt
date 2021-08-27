@@ -12,3 +12,12 @@ D:\SendJobEmail\EmailDAL\bin\Debug\Fax.DBUtility.pdb
 D:\SendJobEmail\EmailDAL\obj\Debug\EmailDAL.csprojResolveAssemblyReference.cache
 D:\SendJobEmail\EmailDAL\obj\Debug\EmailDAL.dll
 D:\SendJobEmail\EmailDAL\obj\Debug\EmailDAL.pdb
+D:\Project\SendMail\EmailDAL\bin\Debug\EmailDAL.dll
+D:\Project\SendMail\EmailDAL\bin\Debug\EmailDAL.pdb
+D:\Project\SendMail\EmailDAL\bin\Debug\Fax.DBUtility.dll
+D:\Project\SendMail\EmailDAL\bin\Debug\Fax.DBUtility.pdb
+D:\Project\SendMail\EmailDAL\obj\Debug\EmailDAL.csproj.AssemblyReference.cache
+D:\Project\SendMail\EmailDAL\obj\Debug\EmailDAL.csproj.CoreCompileInputs.cache
+D:\Project\SendMail\EmailDAL\obj\Debug\EmailDAL.csproj.CopyComplete
+D:\Project\SendMail\EmailDAL\obj\Debug\EmailDAL.dll
+D:\Project\SendMail\EmailDAL\obj\Debug\EmailDAL.pdb

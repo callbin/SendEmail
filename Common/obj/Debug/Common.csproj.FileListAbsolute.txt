@@ -20,3 +20,11 @@ D:\Project\test\Common\obj\Debug\Common.csproj.ResolveComReference.cache
 D:\Project\test\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 D:\Project\test\Common\obj\Debug\Common.dll
 D:\Project\test\Common\obj\Debug\Common.pdb
+D:\Project\SendMail\Common\bin\Debug\Common.dll
+D:\Project\SendMail\Common\bin\Debug\Common.pdb
+D:\Project\SendMail\Common\bin\Debug\Interop.jmail.dll
+D:\Project\SendMail\Common\bin\Debug\log4net.dll
+D:\Project\SendMail\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Project\SendMail\Common\obj\Debug\Common.csproj.CopyComplete
+D:\Project\SendMail\Common\obj\Debug\Common.dll
+D:\Project\SendMail\Common\obj\Debug\Common.pdb

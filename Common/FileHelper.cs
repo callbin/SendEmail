@@ -7,7 +7,10 @@ using System.Data;
 /// <summary>
 /// SysFile 的摘要说明
 /// </summary>
-public class FileHelper
+/// namespace Fax.Common
+namespace Fax.Common
+{
+    public class FileHelper
 {
     private static string dfIndex = ConfigurationManager.AppSettings["LinkDirIndex"].ToString();
     private static string rootdir = ConfigurationManager.AppSettings["RootPath"].ToString();
@@ -100,4 +103,5 @@ public class FileHelper
         writer.Write(fileContent);
         writer.Flush();
     }
+ }
 }
